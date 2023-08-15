@@ -56,7 +56,7 @@ Before running the project, make sure you have the following installed on your s
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Rishabh6306/Assignments/tree/master/3-July%20Auth%20with%20Express%20Assignment  ```
+   git clone https://github.com/Rishabh6306/Assignments/tree/master/3-July%20Auth%20with%20Express%20Assignment ```
 
 2. Navigate to the project directory:
     cd user-authentication-system
